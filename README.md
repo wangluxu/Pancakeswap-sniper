@@ -4,7 +4,7 @@ Demo of a Pancakeswap sniping bot used to snipe during IDOs. With advanced optio
 <H2>Please check the pdf guide I have added.</H2>
 
 
-![image](https://user-images.githubusercontent.com/72505611/118034358-2db9f900-b36a-11eb-8152-1363f764af1c.png)
+[![demov.png](https://i.postimg.cc/CLjrSHdv/demov.png)](https://postimg.cc/7fZnNz37)
 
 
 
