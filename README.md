@@ -2,6 +2,8 @@
  Pancakeswap Sniper bot
 Demo of a Pancakeswap sniping bot used to snipe during IDOs. With advanced options and a graphical user interface.
 <H2>Please check the pdf guide I have added.</H2>
+
+
 ![image](https://user-images.githubusercontent.com/72505611/118034358-2db9f900-b36a-11eb-8152-1363f764af1c.png)
 
 
@@ -55,3 +57,7 @@ my_pk = ''</pre>
 <b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
 
 ....
+
+
+
+
