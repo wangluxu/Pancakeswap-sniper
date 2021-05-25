@@ -12,7 +12,6 @@ Demo of a Pancakeswap sniping bot used to snipe during IDOs. With advanced optio
 
 - An ethereum/bsc address
 - A Windows machine
-- <i>Not sure whether needed anymore: Visual C++ build tools (www.visualstudio.microsoft.com/visual-cpp-build-tools/)</i>
 
 <br> </br>
 <H2>Getting started</H2>
@@ -30,7 +29,7 @@ my_address = ''
 my_pk = ''</pre>
 
 
-3. Run "sniping_bot.exe"
+3. Run "pancakesniper_demo.exe"
 
 - Make sure configfile.py and bot.exe are in the same folder.
 
