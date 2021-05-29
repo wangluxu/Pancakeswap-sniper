@@ -2,7 +2,7 @@
  Pancakeswap Sniper bot
 Demo of a Pancakeswap sniping bot used to snipe during IDOs. With advanced options and a graphical user interface.
 <br>
-<b> For full version, send a DM to @rensniper at Telegram. </b>
+<b> For full version, send a DM to @dannsniper at Telegram. </b>
 <H2>Please check the pdf guide I have added.</H2>
 
 
