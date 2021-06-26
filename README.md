@@ -8,7 +8,6 @@ Demo of a Pancakeswap sniping bot used to snipe during IDOs. With advanced optio
 - An ethereum/bsc address
 - A Windows machine
 
-<br> </br>
 <H2>Getting started</H2>
 
 0. Read prerequisites
