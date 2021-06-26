@@ -5,10 +5,7 @@ Demo of a Pancakeswap sniping bot used to snipe during IDOs. With advanced optio
 <b> For full version, send a DM to @evosnipes at Telegram https://t.me/evosnipes. </b>
 <H2>Please check the pdf guide I have added.</H2>
 
-
 [![demov.png](https://i.postimg.cc/CLjrSHdv/demov.png)](https://postimg.cc/7fZnNz37)
-
-
 
 <H2>Prerequisites</H2>
 
@@ -36,8 +33,8 @@ my_pk = ''</pre>
 - Make sure configfile.py and bot.exe are in the same folder.
 
 
-5. Edit settings according to choice.
+4. Edit settings according to choice.
 
 
-
+<H2> DEMO HAS BEEN DISCONTINUED, FULL VERSION IS NOW FREE. https://github.com/jayvzee/Pancakeswap-sniperbot-full <H2>
 
