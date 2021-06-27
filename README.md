@@ -31,5 +31,5 @@ my_pk = ''</pre>
 4. Edit settings according to choice.
 
 
-<H2> DEMO HAS BEEN DISCONTINUED, FULL VERSION IS NOW FREE. https://github.com/jayvzee/Pancakeswap-sniperbot-full <H2>
+<H2> DEMO HAS BEEN DISCONTINUED, FULL VERSION HERE. https://github.com/jayvzee/Pancakeswap-sniperbot-full <H2>
 
